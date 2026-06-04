@@ -29,4 +29,9 @@ Built with [Reveal.js](https://revealjs.com/). Use `→` to advance, `↓` for s
 
 ## Part of
 
-This project is part of the [LLMs](https://github.com/BrendanJamesLynskey/LLMs) collection — a set of interactive resources covering transformer internals, agent architectures, CUDA programming, and more.
+This deck belongs to two series in the [LLMs](https://github.com/BrendanJamesLynskey/LLMs) collection:
+
+- **[Karpathy: Neural Networks Zero to Hero](https://github.com/BrendanJamesLynskey/LLM_Hub_Karpathy_Zero_to_Hero)** — walkthroughs of Andrej Karpathy's from-scratch teaching codebases (micrograd, makemore, minbpe, minGPT, nanoGPT, llm.c, nanochat).
+- **[Transformer Architecture](https://github.com/BrendanJamesLynskey/LLM_Hub_Transformer_Architecture)** — decoder-only transformer internals, from a visual walkthrough to RTL and from PyTorch to quantisation.
+
+The [LLMs](https://github.com/BrendanJamesLynskey/LLMs) hub is a set of interactive resources covering transformer internals, agent architectures, CUDA programming, and more.
